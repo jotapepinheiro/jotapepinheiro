@@ -1,4 +1,6 @@
-## E aí, galera! Sou o João Paulo Pinheiro, o cara que respira código há mais de 14 anos! 😎 Com uma bagagem pesada em desenvolvimento web, tô sempre ligado nas últimas tecnologias e pronto pra botar a mão na massa.
+## E aí, galera! Sou o João Paulo Pinheiro, o cara que respira código há mais de 14 anos! 😎 
+
+Com uma bagagem pesada em desenvolvimento web, tô sempre ligado nas últimas tecnologias e pronto pra botar a mão na massa.
 
 PHP é comigo mesmo, manjo de Laravel, Symfony e até Wordpress, e não paro por aí não! Também sou fera em JavaScript, ReactJS, NextJS, e todo o rolê do Front-End.
 
