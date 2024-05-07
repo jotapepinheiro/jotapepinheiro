@@ -1,14 +1,14 @@
 ## E aí, galera! Sou o João Paulo Pinheiro, o cara que respira código há mais de 14 anos! 😎 
 
-Com uma bagagem pesada em desenvolvimento web, tô sempre ligado nas últimas tecnologias e pronto pra botar a mão na massa.
+Minha bagagem é de desenvolvimento web, mas há mais de 7 anos atuo como dev full stack, especializado em PHP. 
 
-PHP é comigo mesmo, manjo de Laravel, Symfony e até Wordpress, e não paro por aí não! Também sou fera em JavaScript, ReactJS, NextJS, e todo o rolê do Front-End.
+Também manjo de Laravel, Symfony e até Wordpress. Sou fera em JavaScript, ReactJS, NextJS, e todo o rolê do Front-End. 
 
-Mas calma que tem mais! No Back-End, tô sempre experimentando com NodeJS, Kotlin e o que vier pela frente. E bancos de dados? Tranquilo, domino MySQL, PostgreSQ, Oracle,  Redis ...!
+E no Back-End, tô sempre experimentando com NodeJS, Kotlin e o que vier pela frente. Bancos de dados? Domino MySQL, PostgreSQL, Oracle, Redis...
 
-Minha jornada foi uma montanha-russa de desafios, sempre trazendo melhorias e ideias fresquinhas para os projetos.
+Gosto de trabalhar com pessoas comprometidas, que gostam do que fazem e que conseguem manter o bom humor alinhado ao profissionalismo. 
 
-Então, se você tá a fim de um desenvolvedor que respira inovação, tá na hora de batermos um papo! Tamo junto pra construir o futuro da web com muita vibe e código maneiro! 🚀✌️
+Então, se você está procurando um desenvolvedor que respira inovação, tá na hora da gente bater um papo. É só mandar uma DM! 😉
 
  <div>
   <a href="https://github.com/jotapepinheiro">
