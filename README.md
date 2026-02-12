@@ -1,4 +1,4 @@
-## E aí, galera! Sou o João Paulo Pinheiro, o cara que respira código há mais de 14 anos! 😎 
+## E aí, galera! Sou o João Paulo Pinheiro, o cara que respira código há mais de 15 anos! 😎 
 
 Minha bagagem é de desenvolvimento web, mas há mais de 7 anos atuo como dev full stack, especializado em PHP. 
 
